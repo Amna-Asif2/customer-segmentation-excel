@@ -1,5 +1,5 @@
 # customer-segmentation-excel
-Beginner-friendly customer segmentation project using Excel to analyze purchasing behavior.
+Customer segmentation project using Excel to analyze purchasing behavior.
 
 # Customer Segmentation Using Excel 
 
